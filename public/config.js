@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/YeeErc20",
   "VITE_SEO_SITE_NAME": "YeeLiquid",
   "VITE_SEO_SITE_DESCRIPTION": "Yee",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/yeeliquid-4979/",
+  "VITE_SEO_SITE_URL": "https://yeeliquid.fun",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@YeeErc20",
